@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s2.ax1x.com/2019/02/13/k06IG8.png" width="300px">
+<img src="https://raw.githubusercontent.com/exitmsconfig/engineering-Box/master/img/engineering-Box.jpg" width="300px">
  </p>
 
 # The project
