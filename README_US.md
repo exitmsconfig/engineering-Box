@@ -9,7 +9,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)
 [![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/Scanners-Box.svg)]()
 <br/><br/>
-<strong>README.md in <a href="https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md">Chinese 中文</a></strong>
+<strong>README.md in <a href="https://github.com/exitmsconfig/engineering-Box/blob/master/README.md">Chinese 中文</a></strong>
 </p>
 
 
